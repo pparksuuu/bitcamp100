@@ -1,2 +1,2 @@
-# bitcamp100
+# bitcamp106
 Instructions
